@@ -16,21 +16,37 @@
 ## :hammer_and_wrench: Built With
 ### Tech Stack
 **Client**
-React.js
+Git Hub
 **Server**
-Express.js
-**Database**
+HTML & CSS
 PostgreSQL
 ### Key Features
 - **[When clicked it prints "Hello Microverse" in aquamarine color]**
 ## :rocket: Live Demo
 - [No Live Demo Link]
 ## :computer: Getting Started
-prints Hello Microverse in default browser.
+Prints Hello Microverse in default browser.
+## Getting Started
+To get a local copy up and running, follow the steps in Setup below.
 ### Prerequisites
-Clone this repository to your desired folder and open with any browser.
+Basic knowledge of HTML, CSS, and JavaScript.
+
+### Setup
+If you installed git you can clone the code to your machine directly.
+
+[Clone the file from this location](git@github.com:AceMannie/Hello-Microverse.git), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+
+- Once the files are on your machine, open the cloned repo folder in [Visual Studio Code](https://code.visualstudio.com/)
+
+- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+### Install
+The following tools help make easier to work with sample code.
+- [git](https://git-scm.com/downloads): A tool for managing source code
+- [Visual Studio Code](https://code.visualstudio.com/): A source code editor
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
 ## :busts_in_silhouette: Authors
-:bust_in_silhouette: **Emmanuel Chijioke**
+:bust_in_silhouette: **Emmanuel C Chijioke**
 - GitHub: [@AceMannie](https://github.com/AceMannie)
 - Twitter:[@acemanniee](https://twitter.com/acemanniee)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-chijioke-34383b261/)
@@ -46,18 +62,27 @@ If you like this project feel free to share with your friends.
 ## :pray: Acknowledgments
 I would like to thank Microverse for providing the resources and my coding partners for the support in making this project a success.
 ## :memo: License
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](https://github.com/AceMannie/Hello-Microverse/blob/ranch/LICENCE.md) licensed.
 GitHub
-Emmanuel - Overview
-Emmanuel has 12 repositories available. Follow their code on GitHub.
-Choose a License
+
 MIT License
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-Dec 28th, 2022
-GitHubGitHub
-Emmanuel - Overview
-Emmanuel has 12 repositories available. Follow their code on GitHub.
-Choose a LicenseChoose a License
-MIT License
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-Dec 28th, 2022
+Copyright (c) 2023 Emmanuel C Chijioke
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
