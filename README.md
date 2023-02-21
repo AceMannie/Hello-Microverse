@@ -12,7 +12,7 @@
 - [:star:️ Show your support](#support)
 - [:pray: Acknowledgements](#acknowledgements)
 # :book: [Hello Microverse project]
-**[Hello Microverse project]** is a simple project that display a hello microverse message.
+**[Hello Microverse project]** is a simple project without any coding complex built with html and css that display a hello microverse message in your browser.
 ## :hammer_and_wrench: Built With
 ### Tech Stack
 **Client**
@@ -28,7 +28,7 @@ PostgreSQL
 ## :computer: Getting Started
 prints Hello Microverse in default browser.
 ### Prerequisites
-Clone this repository to your desired folder and open html file.
+Clone this repository to your desired folder and open with any browser.
 ## :busts_in_silhouette: Authors
 :bust_in_silhouette: **Emmanuel Chijioke**
 - GitHub: [@AceMannie](https://github.com/AceMannie)
@@ -44,7 +44,7 @@ Feel free to check the [issues page](../../issues/).
 ## :star:️ Show your support
 If you like this project feel free to share with your friends.
 ## :pray: Acknowledgments
-I would like to thank Microverse for this amazing exercise.
+I would like to thank Microverse for providing the resources and my coding partners for the support in making this project a success.
 ## :memo: License
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 GitHub
